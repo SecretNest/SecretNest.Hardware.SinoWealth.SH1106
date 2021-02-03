@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SH1106", "SH1106\SH1106.csproj", "{68BF35AF-8A06-4A0B-A2B8-757246131A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SH1106BitmapExtension", "SH1106BitmapExtension\SH1106BitmapExtension.csproj", "{6F39AA31-A67B-4785-A6F6-64A04E525251}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68BF35AF-8A06-4A0B-A2B8-757246131A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BF35AF-8A06-4A0B-A2B8-757246131A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BF35AF-8A06-4A0B-A2B8-757246131A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BF35AF-8A06-4A0B-A2B8-757246131A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F39AA31-A67B-4785-A6F6-64A04E525251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F39AA31-A67B-4785-A6F6-64A04E525251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F39AA31-A67B-4785-A6F6-64A04E525251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F39AA31-A67B-4785-A6F6-64A04E525251}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27E70497-D39B-48C8-B182-595674EF353D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
+    <RootNamespace>SecretNest.Hardware.SinoWealth</RootNamespace>
+    <AssemblyName>SecretNest.Hardware.SinoWealth.SH1106</AssemblyName>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Allen Cui</Authors>
+    <Company>SecretNest.info</Company>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/SecretNest/SecretNest.Hardware.SinoWealth.SH1106</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SecretNest/SecretNest.Hardware.SinoWealth.SH1106</RepositoryUrl>
+    <PackageReleaseNotes>Initial release.</PackageReleaseNotes>
+    <Description>Lib of Sino Wealth SH1106 using SPI.</Description>
+    <Copyright>Allen Cui / SecretNest.info</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Device.Gpio" Version="1.3.0" />
+  </ItemGroup>
+
+</Project>
